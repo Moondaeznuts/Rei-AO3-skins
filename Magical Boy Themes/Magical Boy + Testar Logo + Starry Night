@@ -1,8 +1,11 @@
 /*
+THIS IS A COMMENT DO NOT PASTE OR JUST DELETE THIS PART 
 Replaces normal ao3 logo with TeSTAR logo
 Includes Starry Night Background
 TeSTAR Magical Boy inspired theme
 Date of edit: 4/10/2025
+Update: 4/12/25
+Added System popup warning on ao3 error screen
 Author: Moondaeznuts/ShiningHorror
 */
 
@@ -202,6 +205,18 @@ ul.navigation.actions li a,
 
 #dashboard a {
   color: #ff0095;
+}
+
+#main.errors {
+  background: url("https://64.media.tumblr.com/54ce3d006bade7f74e86fbacf477cedc/0e566674b9f91408-be/s400x600/bef3306ef2698920e588eaeb48c078f682d92d36.gif") center center no-repeat;
+}
+
+#main.error-502 {
+  background: url("https://64.media.tumblr.com/54ce3d006bade7f74e86fbacf477cedc/0e566674b9f91408-be/s400x600/bef3306ef2698920e588eaeb48c078f682d92d36.gif") center center no-repeat;
+}
+
+#main.error-503-maintenance {
+  background: url("https://64.media.tumblr.com/54ce3d006bade7f74e86fbacf477cedc/0e566674b9f91408-be/s400x600/bef3306ef2698920e588eaeb48c078f682d92d36.gif") center center no-repeat;
 }
 
 dl.meta {
