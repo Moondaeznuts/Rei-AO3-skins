@@ -7,7 +7,7 @@ Author: Moondaeznuts/ShiningHorror
 */
 
 #header {
-  background-image: url("https://64.media.tumblr.com/9dcdc484a63f8a07a25687dd0be151f4/d0b83372c135c5df-ed/s1280x1920/62148b2cbe7617b5086ae867b6b15374ed6a7cf5.gif");
+  background-image: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773181869/testar_present_gif_banner_okdihn.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -38,7 +38,7 @@ img.logo {
 }
 
 .event .userstuff {
-  background-image: url("https://64.media.tumblr.com/0dab48221b5ad049ec369e88fc23b8c6/8c7178b0d13c1ca0-24/s2048x3072/6fede1fe13450b4c3a08ce276ad7f2a286649165.jpg");
+  background-image: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773182492/blue_night_sky_ojsn47.jpg");
   border: 1px solid #0855b1;
   background: #010414;
 }
@@ -205,15 +205,15 @@ ul.navigation.actions li a,
 }
 
 #main.errors {
-  background: url("https://64.media.tumblr.com/54ce3d006bade7f74e86fbacf477cedc/0e566674b9f91408-be/s400x600/bef3306ef2698920e588eaeb48c078f682d92d36.gif") center center no-repeat;
+  background: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773181878/error_gif_he5jmp.gif") center center no-repeat;
 }
 
 #main.error-502 {
-  background: url("https://64.media.tumblr.com/54ce3d006bade7f74e86fbacf477cedc/0e566674b9f91408-be/s400x600/bef3306ef2698920e588eaeb48c078f682d92d36.gif") center center no-repeat;
+  background: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773181878/error_gif_he5jmp.gif") center center no-repeat;
 }
 
 #main.error-503-maintenance {
-  background: url("https://64.media.tumblr.com/54ce3d006bade7f74e86fbacf477cedc/0e566674b9f91408-be/s400x600/bef3306ef2698920e588eaeb48c078f682d92d36.gif") center center no-repeat;
+  background: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773181878/error_gif_he5jmp.gif") center center no-repeat;
 }
 
 dl.meta {
@@ -232,7 +232,7 @@ fieldset fieldset.listbox {
 }
 
 fieldset {
-  background: url("https://64.media.tumblr.com/0dab48221b5ad049ec369e88fc23b8c6/8c7178b0d13c1ca0-24/s2048x3072/6fede1fe13450b4c3a08ce276ad7f2a286649165.jpg");
+  background: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773182492/blue_night_sky_ojsn47.jpg");
 }
 
 form dl,
