@@ -10,7 +10,7 @@ Author: Moondaeznuts/ShiningHorror
 */
 
 #header {
-  background-image: url("https://64.media.tumblr.com/20efb3bc9cb1d36fc999ba4e828de357/f67c3e3cb1a050da-3f/s1280x1920/df7012dc7f7b09ee31d8c126bea373b2a8e6f95c.gif");
+  background-image: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773182380/testar_magical_boy_banner_wg6nqo.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -28,7 +28,7 @@ Author: Moondaeznuts/ShiningHorror
 
 img.logo {
   padding: 10px 60px 0px 0px;
-  background: url(https://i.imgur.com/O02EtfS.png);
+  background: url(https://res.cloudinary.com/ditayk3lw/image/upload/v1773182115/testar_logo_transpanret_jotebk.png);
   background-size: 50px;
   background-repeat: no-repeat;
   width: 0px;
@@ -41,7 +41,7 @@ img.logo {
 }
 
 .event .userstuff {
-  background-image: url("https://64.media.tumblr.com/9901585fd6364489ceee7eba285185d4/adb141f7cef6a8a2-de/s2048x3072/8b3ec0f975d350211c6bedb9678e3fd413657b84.jpg");
+  background-image: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773182942/magical_boy_testar_chap_69_pt3event%20banner.jpg");
   border: 1px solid #ff0095;
   background: #020116;
 }
@@ -208,15 +208,15 @@ ul.navigation.actions li a,
 }
 
 #main.errors {
-  background: url("https://64.media.tumblr.com/54ce3d006bade7f74e86fbacf477cedc/0e566674b9f91408-be/s400x600/bef3306ef2698920e588eaeb48c078f682d92d36.gif") center center no-repeat;
+  background: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773181878/error_gif_he5jmp.gif") center center no-repeat;
 }
 
 #main.error-502 {
-  background: url("https://64.media.tumblr.com/54ce3d006bade7f74e86fbacf477cedc/0e566674b9f91408-be/s400x600/bef3306ef2698920e588eaeb48c078f682d92d36.gif") center center no-repeat;
+  background: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773181878/error_gif_he5jmp.gif") center center no-repeat;
 }
 
 #main.error-503-maintenance {
-  background: url("https://64.media.tumblr.com/54ce3d006bade7f74e86fbacf477cedc/0e566674b9f91408-be/s400x600/bef3306ef2698920e588eaeb48c078f682d92d36.gif") center center no-repeat;
+  background: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773181878/error_gif_he5jmp.gif") center center no-repeat;
 }
 
 dl.meta {
@@ -235,7 +235,7 @@ fieldset fieldset.listbox {
 }
 
 fieldset {
-  background: url("https://64.media.tumblr.com/9901585fd6364489ceee7eba285185d4/adb141f7cef6a8a2-de/s2048x3072/8b3ec0f975d350211c6bedb9678e3fd413657b84.jpg");
+  background: url("https://res.cloudinary.com/ditayk3lw/image/upload/v1773182942/magical_boy_testar_chap_69_pt3event%20banner.jpg");
 }
 
 form dl,
